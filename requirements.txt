@@ -1,9 +1,2 @@
 streamlit
-matplotlib
-seaborn
-scikit-learn
-statsmodels
-streamlit
-pandas
-numpy
-pip install -r requirements.txt
+pip install matplotlib seaborn scikit-learn statsmodels streamlit
