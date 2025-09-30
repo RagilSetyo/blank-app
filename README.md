@@ -11,8 +11,13 @@ A simple Streamlit app template for you to modify!
    ```
    $ pip install -r requirements.txt
    ```
+2. Install the requirements
 
-2. Run the app
+   ```
+   $ pip install matplotlib seaborn scikit-learn statsmodels streamlit
+   ```
+
+3. Run the app
 
    ```
    $ streamlit run streamlit_app.py
